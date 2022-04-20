@@ -1,0 +1,51 @@
+body {
+    background-color: #00afaf;
+	font-family: verdana;
+    color: #ffffff;
+}
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+	font-size: 160%;
+}
+
+h3 {
+	font-size: 120%;
+}
+
+
+ul li a{
+ font-size: 100%;
+}
+
+a:link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e0ff2f;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+ a:visited {
+  color: #FFFFFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: #FFFFFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a {
+ line-height: 2.0;
+}
+
+
+
